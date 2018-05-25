@@ -4,5 +4,9 @@ hahahahhaaa
 sdfsfskfh
 dui a  wo hen shuai heihei!! 
 i create new branch name dev
-我在master分支上写了这句话
+<<<<<<< HEAD
+=======
+我创建了一个新的分支叫dev
+
+>>>>>>> dev
 
